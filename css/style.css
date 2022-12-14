@@ -167,7 +167,7 @@ section{
    right: 40px;
    width: 60px;
    height: 60px;
-   background:lightblue url(/images/up.png);
+   background:lightblue url(../images/arrowup.png);
    border-radius: 50%;
    background-size: 40px;
    background-position: center;
